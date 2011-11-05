@@ -23,9 +23,18 @@ __END__
 
 =head1 NAME
 
+Math::Base4 - Base 4 calculations
+
 =head1 SYNOPSIS
 
+	use Math::Base4 qw(add4);
+	
+	print add4(2,2);
+	# 10
+
 =head1 DESCRIPTION
+
+FIXME please
 
 =head1 AUTHOR
 
